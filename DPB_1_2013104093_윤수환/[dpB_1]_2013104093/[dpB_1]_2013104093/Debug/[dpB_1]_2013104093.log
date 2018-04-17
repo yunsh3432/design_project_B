@@ -1,0 +1,56 @@
+﻿Build started 2016-10-16 오후 4:17:43.
+     1>Project "C:\Users\Y700\Desktop\DP_1_2013104093_윤수환\[dpB_1]_2013104093\[dpB_1]_2013104093\[dpB_1]_2013104093.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Y700\Desktop\DP_1_2013104093_윤수환\[dpB_1]_2013104093\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\[dpB_1]_2013104093.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt App.cpp AttackBehavior.cpp Blastolse.cpp Bulbasaur.cpp Charizard.cpp Magikarp.cpp main.cpp Metapod.cpp Pidgey.cpp Pokemon.cpp PokemonFactory.cpp RestBehavior.cpp SkillBehavior.cpp TurnBehavior.cpp
+         TurnBehavior.cpp
+         SkillBehavior.cpp
+         RestBehavior.cpp
+         PokemonFactory.cpp
+         Pokemon.cpp
+         Pidgey.cpp
+         Metapod.cpp
+         main.cpp
+         Magikarp.cpp
+         Charizard.cpp
+         Bulbasaur.cpp
+         Blastolse.cpp
+     1>c:\users\y700\desktop\dp_1_2013104093_윤수환\[dpb_1]_2013104093\[dpb_1]_2013104093\blastolse.cpp(27): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\y700\desktop\dp_1_2013104093_윤수환\[dpb_1]_2013104093\[dpb_1]_2013104093\blastolse.cpp(53): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         AttackBehavior.cpp
+     1>c:\users\y700\desktop\dp_1_2013104093_윤수환\[dpb_1]_2013104093\[dpb_1]_2013104093\attackbehavior.cpp(33): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         App.cpp
+         Generating Code...
+     1>c:\users\y700\desktop\dp_1_2013104093_윤수환\[dpb_1]_2013104093\[dpb_1]_2013104093\magikarp.cpp(36): warning C4715: 'Magikarp::skill' : not all control paths return a value
+     1>c:\users\y700\desktop\dp_1_2013104093_윤수환\[dpb_1]_2013104093\[dpb_1]_2013104093\metapod.cpp(35): warning C4715: 'Metapod::skill' : not all control paths return a value
+     1>c:\users\y700\desktop\dp_1_2013104093_윤수환\[dpb_1]_2013104093\[dpb_1]_2013104093\pidgey.cpp(34): warning C4715: 'Pidgey::skill' : not all control paths return a value
+     1>c:\users\y700\desktop\dp_1_2013104093_윤수환\[dpb_1]_2013104093\[dpb_1]_2013104093\pokemonfactory.cpp(43): warning C4715: 'PokemonFactory::create_pokemon' : not all control paths return a value
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Y700\Desktop\DP_1_2013104093_윤수환\[dpB_1]_2013104093\Debug\[dpB_1]_2013104093.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\[dpB_1]_2013104093.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Y700\Desktop\DP_1_2013104093_윤수환\[dpB_1]_2013104093\Debug\[dpB_1]_2013104093.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Y700\Desktop\DP_1_2013104093_윤수환\[dpB_1]_2013104093\Debug\[dpB_1]_2013104093.lib" /MACHINE:X86 Debug\App.obj
+         Debug\AttackBehavior.obj
+         Debug\Blastolse.obj
+         Debug\Bulbasaur.obj
+         Debug\Charizard.obj
+         Debug\Magikarp.obj
+         Debug\main.obj
+         Debug\Metapod.obj
+         Debug\Pidgey.obj
+         Debug\Pokemon.obj
+         Debug\PokemonFactory.obj
+         Debug\RestBehavior.obj
+         Debug\SkillBehavior.obj
+         Debug\TurnBehavior.obj
+         [dpB_1]_2013104093.vcxproj -> C:\Users\Y700\Desktop\DP_1_2013104093_윤수환\[dpB_1]_2013104093\Debug\[dpB_1]_2013104093.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Y700\Desktop\DP_1_2013104093_윤수환\[dpB_1]_2013104093\Debug\[dpB_1]_2013104093.exe;#1" /manifest "Debug\[dpB_1]_2013104093.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\[dpB_1]_2013104093.unsuccessfulbuild".
+         Touching "Debug\[dpB_1]_2013104093.lastbuildstate".
+     1>Done Building Project "C:\Users\Y700\Desktop\DP_1_2013104093_윤수환\[dpB_1]_2013104093\[dpB_1]_2013104093\[dpB_1]_2013104093.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.18

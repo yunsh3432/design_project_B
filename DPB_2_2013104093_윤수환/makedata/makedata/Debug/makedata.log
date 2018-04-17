@@ -1,0 +1,17 @@
+﻿Build started 2016-12-14 오후 1:28:58.
+     1>Project "C:\Users\Y700\Desktop\Desktop (2)\makedata\makedata\makedata.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\makedata.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         makedata.vcxproj -> C:\Users\Y700\Desktop\Desktop (2)\makedata\Debug\makedata.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\makedata.unsuccessfulbuild".
+         Touching "Debug\makedata.lastbuildstate".
+     1>Done Building Project "C:\Users\Y700\Desktop\Desktop (2)\makedata\makedata\makedata.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
